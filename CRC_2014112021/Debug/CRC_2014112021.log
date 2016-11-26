@@ -1,0 +1,18 @@
+﻿  verifier.cpp
+  generator.cpp
+  alter.cpp
+c:\users\hp\documents\visual studio 2015\projects\crc_2014112021\crc_2014112021\crc.h(8): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\crc_2014112021\crc_2014112021\crc.h(10): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\crc_2014112021\crc_2014112021\crc.h(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\crc_2014112021\crc_2014112021\crc.h(7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\hp\documents\visual studio 2015\projects\crc_2014112021\crc_2014112021\crc.h(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\visual studio 2015\projects\crc_2014112021\crc_2014112021\crc.h(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\hp\documents\visual studio 2015\projects\crc_2014112021\crc_2014112021\alter.cpp(4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\hp\documents\visual studio 2015\projects\crc_2014112021\crc_2014112021\alter.cpp(5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Generating Code...
+  CRC_2014112021.vcxproj -> C:\Users\HP\documents\visual studio 2015\Projects\CRC_2014112021\Debug\CRC_2014112021.exe
+  CRC_2014112021.vcxproj -> C:\Users\HP\documents\visual studio 2015\Projects\CRC_2014112021\Debug\CRC_2014112021.pdb (Full PDB)
